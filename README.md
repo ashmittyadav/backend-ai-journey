@@ -1,4 +1,4 @@
-# Backend + AI Journey 🚀
+# Backend + AI Journey 
 
 This repository documents my daily progress as I build skills in:
 - Python & Java
